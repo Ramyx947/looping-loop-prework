@@ -2,7 +2,7 @@ def looping
 	#your code here
 	puts "Wingardium Leviosa"
 end
-looping
+puts looping
 
 #call your method here
 looping
